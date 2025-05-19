@@ -35,7 +35,7 @@ profiles:
     url: 'herrerajessica17@gmail.com'
     label: E-mail Me
   - icon: brands/linkedin
-    url: www.linkedin.com/in/jessicaherreraanderson
+    url: https://www.linkedin.com/in/jessicaherreraanderson
 
 education:
   - area: BS Information Technology and Networking - Cybersecurity
