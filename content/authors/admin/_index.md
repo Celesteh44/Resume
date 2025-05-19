@@ -88,7 +88,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Gradening
+      - name: Gardening
         description: ''
         percent: 90
         icon: person-simple-plant
