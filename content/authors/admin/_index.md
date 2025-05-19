@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Information Tech & Networking: Cyber Security Student | Tech-Savvy Problem Solver with API IT Support Experience.
+role: "Information Tech & Networking: Cyber Security Student | Tech-Savvy Problem Solver with API IT Support Experience."
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
