@@ -19,7 +19,7 @@ superuser: true
 # Role/position/tagline
 role: "Information Tech & Networking: Cyber Security Student | Tech-Savvy Problem Solver with API IT Support Experience."
 
-summary: |
+# Summary
 Information Technology & Networking student specializing in Cybersecurity at DeVry University, maintaining a 4.0 GPA. Currently interning as a Software Developer at OpenQQuantify, bringing hands-on experience in software development, API support, and technical problem-solving.
 Information Technology & Networking student specializing in Cybersecurity at DeVry University, maintaining a 4.0 GPA. Currently interning as a Software Developer at OpenQQuantify, bringing hands-on experience in software development and technical support. Proficient in Python, APIs, YMXL format, and IT client support, with experience as a Resolution Specialist at Walmart. Recognized in leadership and scholars programs, demonstrating strong leadership and academic excellence. Passionate about gardening and photography.
 
