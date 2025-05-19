@@ -25,6 +25,11 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
+      - block: summary
+    content:
+      title: Professional Summary
+      text: >
+        Dynamic 
   - block: experience
     content:
       username: admin
