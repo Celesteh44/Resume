@@ -47,17 +47,24 @@ education:
 work:
   - position: Software Developer Internship
     company_name: OpenQQuantify
-    company_url: ''
+    company_url: https://www.openqquantify.com
     company_logo: ''
-    date_start: 2025-05-16
+    date_start: 2025-05-01
     date_end: ''
     summary: |
-      Responsibilities include:
-      - Writing and testing code
-      - Debugging programs
-      - Collaborating with team members on various projects
-      - Participating in code reviews
-      - Contributing to the development of back-end web applications
+      Using Generative AI to accelerate development in electronics, quantum computing, integrated software, and embedded systems.
+      
+      - Wrote and tested code, delivering robust software solutions by implementing best practices in a collaborative team environment.
+      - Debugged programs, enhancing performance by identifying and resolving critical issues in real time.
+      - Collaborated on diverse projects, fostering innovation and efficiency through effective communication and teamwork.
+      - Participated in code reviews, maintaining high standards and providing constructive feedback.
+      - Contributed to back-end web application development using modern frameworks and technologies.
+      - Designed and deployed a full-stack Flask microservice using Python, HTML, CSS, and JavaScript.
+      - Built a dynamic landing page with backend data fetching and OpenAI-powered AI responses to enhance user interaction.
+      - Developed a custom `/api/ask` endpoint with frontend JSON handling, fetch scripts, and backend response streaming.
+      - Gathered and processed open-source datasets (e.g., Kaggle), building ETL pipelines for AI training.
+      - Documented API functionality and contributions following open-source best practices for team clarity.
+
   - position: Resolution Specialist
     company_name: Walmart
     company_url: ''
