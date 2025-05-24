@@ -3,7 +3,7 @@
 title: Jessica Herrera Anderson
 
 # Name pronunciation (optional)
-name_pronunciation: ' '
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Jessica
@@ -17,23 +17,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: "Information Technology & Networking student specializing in Cybersecurity at DeVry University, maintaining a 4.0 GPA. Currently interning as a Software Developer at OpenQQuantify, bringing hands-on experience in software development, API support, and technical problem-solving. Information Technology & Networking student specializing in Cybersecurity at DeVry University, maintaining a 4.0 GPA. Currently interning as a Software Developer at OpenQQuantify, bringing hands-on experience in software development and technical support. Proficient in Python, APIs, YMXL format, and IT client support, with experience as a Resolution Specialist at Walmart. Recognized in leadership and scholars programs, demonstrating strong leadership and academic excellence. Passionate about gardening and photography."
+role: >
+  Information Technology & Networking student specializing in Cybersecurity at DeVry University, maintaining a 4.0 GPA. 
+  Currently interning as a Software Developer at OpenQQuantify, bringing hands-on experience in software development, 
+  API support, and technical problem-solving. Proficient in Python, APIs, YAML format, and IT client support, with experience 
+  as a Resolution Specialist at Walmart. Recognized in leadership and scholars programs, demonstrating strong leadership and 
+  academic excellence. Passionate about gardening and photography.
 
-Technical Skills:
-- Programming: Python, HTML, CSS, JavaScript
-- Web Dev: Flask, RESTful APIs, Postman
-- Tools: Git, Linux CLI, JSON, XML
-- Cybersecurity: Ethical Hacking (basic), API Security, Wireshark
+# Technical skills summary (Optional block, consider moving to a new section or removing from here)
+technical_skills:
+  - Programming: Python, HTML, CSS, JavaScript
+  - Web Development: Flask, RESTful APIs, Postman
+  - Tools: Git, Linux CLI, JSON, XML
+  - Cybersecurity: Ethical Hacking (basic), API Security, Wireshark
 
-
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations
 organizations:
   - name: Walmart
-    url: Walmart.com
+    url: https://www.walmart.com
   - name: OpenQQuantify - Software Developer Internship
+    url: https://www.openqquantify.com
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:herrerajessica17@gmail.com'
@@ -41,79 +46,70 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jessicaherreraanderson
 
+# Education
 education:
   - area: BS Information Technology and Networking - Cybersecurity
-    institution: DeVry University 
+    institution: DeVry University
     date_start: 2024-05-01
     date_end: 2026-05-31
     summary: |
-      TNSLS | The National Society of Leadership and Success, NextGen Hispanic Scholars Program, Women+Tech Scholars Program
-    
-      GPA: 4.0/4.0
+      - TNSLS | The National Society of Leadership and Success  
+      - NextGen Hispanic Scholars Program  
+      - Women+Tech Scholars Program  
+      - GPA: 4.0/4.0
 
+# Work experience
 work:
-  - position: Software Developer Internship
+  - position: Software Developer Intern
     company_name: OpenQQuantify
     company_url: https://www.openqquantify.com
-    company_logo: ''
     date_start: 2025-05-01
     date_end: ''
     summary: |
-      Using Generative AI to accelerate development in electronics, quantum computing, integrated software, and embedded systems.
-      
-      - Wrote and tested code, delivering robust software solutions by implementing best practices in a collaborative team environment.
-      - Debugged programs, enhancing performance by identifying and resolving critical issues in real time.
-      - Collaborated on diverse projects, fostering innovation and efficiency through effective communication and teamwork.
-      - Participated in code reviews, maintaining high standards and providing constructive feedback.
-      - Contributed to back-end web application development using modern frameworks and technologies.
-      - Designed and deployed a full-stack Flask microservice using Python, HTML, CSS, and JavaScript.
-      - Built a dynamic landing page with backend data fetching and OpenAI-powered AI responses to enhance user interaction.
-      - Developed a custom `/api/ask` endpoint with frontend JSON handling, fetch scripts, and backend response streaming.
-      - Gathered and processed open-source datasets (e.g., Kaggle), building ETL pipelines for AI training.
-      - Documented API functionality and contributions following open-source best practices for team clarity.
+      - Used Generative AI to accelerate development in electronics, quantum computing, integrated software, and embedded systems.
+      - Wrote and tested robust code within collaborative team environments.
+      - Debugged programs to enhance performance by resolving real-time issues.
+      - Participated in code reviews and contributed to high-quality software standards.
+      - Developed back-end web apps using Flask and modern frameworks.
+      - Created a full-stack Flask microservice with dynamic frontend and AI integration.
+      - Built a custom `/api/ask` endpoint with JSON handling and response streaming.
+      - Built ETL pipelines from Kaggle datasets for AI training.
+      - Documented APIs following open-source standards.
 
   - position: Resolution Specialist
     company_name: Walmart
-    company_url: ''
-    company_logo: ''
     date_start: 2023-01-01
     date_end: ''
     summary: |
-      Responsibilities include:
-      ▪ Promoted to the CSP Content Solutions Provider within Walmart.com's Department. Manage communication with B2B marketplace sellers via chat and email, ensuring timely updates and modifications to online item descriptions across all platforms.
-      ▪ Investigate and resolve API errors by analyzing JSON data, providing clear explanations and examples to clients to facilitate successful troubleshooting and implementation. - Postman
-      ▪ Enhance client support by offering additional clarification through phone calls when necessary, ensuring comprehensive understanding and satisfaction.
+      - Promoted to CSP Content Solutions Provider within Walmart.com.
+      - Managed communications with B2B sellers, ensuring timely content updates.
+      - Resolved API errors using JSON and provided troubleshooting support.
+      - Enhanced customer experience with follow-ups via phone and email.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
         percent: 80
         icon: devicon/python
-      - name: API
-        description: ''
+      - name: APIs
         percent: 90
         icon: devicon/rstudio
-     
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Gardening
-        description: ''
         percent: 90
         icon: person-simple-plant
       - name: Photography
-        description: ''
         percent: 80
         icon: camera
 
+# Languages
 languages:
   - name: English
     percent: 100
 ---
-
-
