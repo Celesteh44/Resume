@@ -19,6 +19,13 @@ superuser: true
 # Role/position/tagline
 role: "Information Technology & Networking student specializing in Cybersecurity at DeVry University, maintaining a 4.0 GPA. Currently interning as a Software Developer at OpenQQuantify, bringing hands-on experience in software development, API support, and technical problem-solving. Information Technology & Networking student specializing in Cybersecurity at DeVry University, maintaining a 4.0 GPA. Currently interning as a Software Developer at OpenQQuantify, bringing hands-on experience in software development and technical support. Proficient in Python, APIs, YMXL format, and IT client support, with experience as a Resolution Specialist at Walmart. Recognized in leadership and scholars programs, demonstrating strong leadership and academic excellence. Passionate about gardening and photography."
 
+Technical Skills:
+- Programming: Python, HTML, CSS, JavaScript
+- Web Dev: Flask, RESTful APIs, Postman
+- Tools: Git, Linux CLI, JSON, XML
+- Cybersecurity: Ethical Hacking (basic), API Security, Wireshark
+
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Walmart
